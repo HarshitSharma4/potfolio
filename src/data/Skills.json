@@ -1,0 +1,29 @@
+{
+    "skills":[{
+         "icon":"",
+         "name":"React js",
+         "rating":4.5
+    },{
+        "icon":"",
+        "name":"Taildwind CSS",
+        "rating":5
+    },{
+         "icon":"",
+         "name":"Express js",
+         "rating":4
+    },{
+        "icon":"",
+        "name":"SQL",
+        "rating":4
+    },{
+        "icon":"",
+        "name":"Mongo db",
+        "rating":4.5
+    },{
+        "icon":"",
+        "name":"DSA",
+        "rating":4
+    },{
+        
+    }]
+}
